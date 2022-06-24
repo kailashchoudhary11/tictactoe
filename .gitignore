@@ -1,4 +1,5 @@
 venv/
 .env
-tictactoe/__pycache__
 db.sqlite3
+tictactoe/__pycache__
+game/__pycache__
